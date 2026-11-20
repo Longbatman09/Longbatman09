@@ -1,21 +1,110 @@
+<div align="center">
 
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/834307551255724032) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal_chandrakanth_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-chandrakanth-babu-3099853b4/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Low_Kitchen6761) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Coco_Copi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TheCocoCopi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vb850055@gmail.com) 
+# Hi, I'm B Vishal Chandrakanth
 
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Longbatman09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Longbatman09&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Longbatman09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Founder of <img src="https://github.com/user-attachments/assets/15663863-db97-45b5-9302-e6877a616ece" height="40" align="center" alt="Coco Copi" />
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Longbatman09&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+**17-year-old founder, game developer & self-taught programmer from Chennai, India, currently in Class 12.**
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Longbatman09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Coco Copi Site](https://img.shields.io/badge/Coco_Copi-Website-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://cococopi-site.vercel.app/)
+[![Org](https://img.shields.io/badge/GitHub-CocoCopi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CocoCopi)
+[![YouTube](https://img.shields.io/badge/YouTube-@TheCocoCopi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCocoCopi)
+[![X](https://img.shields.io/badge/X-@Coco__Copi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Coco_Copi)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Longbatman09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm **B Vishal Chandrakanth**, a student developer who started with small apps and scripts and kept aiming higher. I'm the founder of **[Coco Copi](https://github.com/CocoCopi)**, a small team of young developers building tools we wish existed: from low-level language tooling to AI products, practical Android utilities and games.
+
+I learn by shipping. Most of what I know came from building something too ambitious, breaking it, and rebuilding it better, and I'm always looking for people to build with.
+
+- Founder of [Coco Copi](https://github.com/CocoCopi), a small team building language tooling, local AI, and developer products
+- Game developer, currently working on an RPG codenamed **Codename-K**
+- Currently contributing to [Lawnchair-16](https://github.com/LawnchairLauncher/lawnchair), the open-source Android launcher
+- Building AI agents that turn messy documents into structured data
+- Class 12 student, balancing school with building in public
+- Keen to learn, contribute and partner on collaborative projects
+- Based in Chennai, India
+
+---
+
+## About Coco Copi
+
+**Coco Copi** is a small team of young developers from Chennai, India, driven by one idea: build real, useful software early, and get better with every release. We work across language tooling, local AI, developer tools, Android utilities and games, and we build in public so anyone can follow along, learn from it and jump in.
+
+We're still growing, and we're always happy to meet people who like building things from the ground up.
+
+<div align="center">
+
+<img width="100%" alt="About Coco Copi" src="https://github.com/user-attachments/assets/5409eced-c553-4128-b74f-55e4b9386d6f" />
+
+</div>
+
+[Website](https://cococopi-site.vercel.app/) · [GitHub](https://github.com/CocoCopi) · [YouTube](https://www.youtube.com/@TheCocoCopi) · [X](https://x.com/Coco_Copi) · [Instagram](https://instagram.com/cococopidevelopers)
+
+---
+
+## Projects I Built
+
+| Project | Description |
+| --- | --- |
+| **[ADVOID](https://github.com/Longbatman09/ADVOID)** | Android app (Kotlin) that mutes ad audio in selected music apps by reading media notifications, then restores volume when the ad ends. |
+| **[Report2Plot](https://github.com/Longbatman09/Report2Plot)** / **[R2P-Enterprise](https://github.com/Longbatman09/R2P-Enterprise)** | Python tooling that turns reports into plots and OLAP-style analysis, with an enterprise edition in development. |
+| **[DALE](https://github.com/Longbatman09/Dual_App_Lock_Executor-DALE)** | Dual App Lock Executor: an Android (Java) app for creating app locks from a dual-app combination. |
+| **[Fake-Logs](https://github.com/Longbatman09/Fake-Logs)** | Browser-based fake activity log generator with a "hacker terminal" look. |
+
+---
+
+## GitHub Live Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Longbatman09&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=8b949e" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Longbatman09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=8b949e&text_color=8b949e&border_color=8b949e" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Longbatman09&theme=transparent&hide_border=false&ring=8b949e&fire=8b949e&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&stroke=8b949e" alt="Streak stats" />
+
+**GitHub Achievements:** Pull Shark · YOLO · Pro
+
+</div>
+
+### Featured Repositories
+
+<div align="center">
+
+[![ADVOID](https://github-readme-stats.shion.dev/api/pin/?username=Longbatman09&repo=ADVOID&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=8b949e)](https://github.com/Longbatman09/ADVOID)
+[![R2P-Enterprise](https://github-readme-stats.shion.dev/api/pin/?username=Longbatman09&repo=R2P-Enterprise&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=8b949e)](https://github.com/Longbatman09/R2P-Enterprise)
+[![DALE](https://github-readme-stats.shion.dev/api/pin/?username=Longbatman09&repo=Dual_App_Lock_Executor-DALE&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=8b949e)](https://github.com/Longbatman09/Dual_App_Lock_Executor-DALE)
+[![Fake-Logs](https://github-readme-stats.shion.dev/api/pin/?username=Longbatman09&repo=Fake-Logs&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e&border_color=8b949e)](https://github.com/Longbatman09/Fake-Logs)
+
+</div>
+
+---
+
+## Find Me Online
+
+| | |
+| --- | --- |
+| Company | [github.com/CocoCopi](https://github.com/CocoCopi) · [cococopi-site.vercel.app](https://cococopi-site.vercel.app/) |
+| YouTube | [@TheCocoCopi](https://www.youtube.com/@TheCocoCopi) |
+| X / Twitter | [@Coco_Copi](https://x.com/Coco_Copi) |
+| Instagram | [@vishal_chandrakanth_](https://instagram.com/vishal_chandrakanth_) · [@cococopidevelopers](https://instagram.com/cococopidevelopers) |
+| LinkedIn | [Vishal Chandrakanth Babu](https://www.linkedin.com/in/vishal-chandrakanth-babu-3099853b4/) |
+| Reddit | [u/Low_Kitchen6761](https://reddit.com/user/Low_Kitchen6761) |
+| Email | [vb850055@gmail.com](mailto:vb850055@gmail.com) |
+
+---
+
+<div align="center">
+
+### Let's build something together
+
+Coco Copi is open to collaborations, feedback and ambitious ideas. If you're into compilers, local AI, or Android tooling, say hi.
+
+<img src="https://komarev.com/ghpvc/?username=Longbatman09&label=Profile+views&color=8b949e&style=flat-square" alt="Profile views" />
+
+</div>
+****
