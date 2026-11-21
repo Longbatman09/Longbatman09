@@ -2,7 +2,7 @@
 
 # Hi, I'm B Vishal Chandrakanth
 
-### Founder of <img src="https://github.com/user-attachments/assets/15663863-db97-45b5-9302-e6877a616ece" height="40" align="center" alt="Coco Copi" />
+### Founder of <img src="https://github.com/user-attachments/assets/bd7eb3fe-2d3e-4e9b-b5c4-1cc7446b633b" height="40" align="center" alt="Coco Copi" />
 
 **17-year-old founder, game developer & self-taught programmer from Chennai, India, currently in Class 12.**
 
